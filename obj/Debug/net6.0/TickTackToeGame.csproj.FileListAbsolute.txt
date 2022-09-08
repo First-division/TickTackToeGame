@@ -1,0 +1,15 @@
+/workspaces/TickTackToeGame/bin/Debug/net6.0/TickTackToeGame
+/workspaces/TickTackToeGame/bin/Debug/net6.0/TickTackToeGame.deps.json
+/workspaces/TickTackToeGame/bin/Debug/net6.0/TickTackToeGame.runtimeconfig.json
+/workspaces/TickTackToeGame/bin/Debug/net6.0/TickTackToeGame.dll
+/workspaces/TickTackToeGame/bin/Debug/net6.0/TickTackToeGame.pdb
+/workspaces/TickTackToeGame/obj/Debug/net6.0/TickTackToeGame.csproj.AssemblyReference.cache
+/workspaces/TickTackToeGame/obj/Debug/net6.0/TickTackToeGame.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/TickTackToeGame/obj/Debug/net6.0/TickTackToeGame.AssemblyInfoInputs.cache
+/workspaces/TickTackToeGame/obj/Debug/net6.0/TickTackToeGame.AssemblyInfo.cs
+/workspaces/TickTackToeGame/obj/Debug/net6.0/TickTackToeGame.csproj.CoreCompileInputs.cache
+/workspaces/TickTackToeGame/obj/Debug/net6.0/TickTackToeGame.dll
+/workspaces/TickTackToeGame/obj/Debug/net6.0/refint/TickTackToeGame.dll
+/workspaces/TickTackToeGame/obj/Debug/net6.0/TickTackToeGame.pdb
+/workspaces/TickTackToeGame/obj/Debug/net6.0/TickTackToeGame.genruntimeconfig.cache
+/workspaces/TickTackToeGame/obj/Debug/net6.0/ref/TickTackToeGame.dll
